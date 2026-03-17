@@ -50,4 +50,5 @@ I'm used to working solo, owning the full product lifecycle, and figuring things
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Domínguez-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/carlos-dominguezs)
+[![GitHub](https://img.shields.io/badge/GitHub-domin10-181717?style=flat&logo=github)](https://github.com/domin10)
 [![AlphaRoom](https://img.shields.io/badge/Project-AlphaRoom-1A56A0?style=flat&logo=vercel)](https://www.alpharoomlab.com)
